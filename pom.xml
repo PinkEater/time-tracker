@@ -33,6 +33,7 @@
                     <version>3.3</version>
                     <configuration>
                         <verbose>true</verbose>
+                        <dependencyLocationsEnabled>false</dependencyLocationsEnabled>
                         <fork>true</fork>
                         <source>${java.version}</source>
                         <target>${java.version}</target>
